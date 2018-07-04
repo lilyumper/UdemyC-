@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/bin/Debug/netcoreapp2.0/DataTypesVariables.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/bin/Debug/netcoreapp2.0/DataTypesVariables.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/bin/Debug/netcoreapp2.0/DataTypesVariables.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/bin/Debug/netcoreapp2.0/DataTypesVariables.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/bin/Debug/netcoreapp2.0/DataTypesVariables.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/obj/Debug/netcoreapp2.0/DataTypesVariables.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/obj/Debug/netcoreapp2.0/DataTypesVariables.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/obj/Debug/netcoreapp2.0/DataTypesVariables.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/obj/Debug/netcoreapp2.0/DataTypesVariables.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/obj/Debug/netcoreapp2.0/DataTypesVariables.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DataTypesVariables/DataTypesVariables/obj/Debug/netcoreapp2.0/DataTypesVariables.pdb

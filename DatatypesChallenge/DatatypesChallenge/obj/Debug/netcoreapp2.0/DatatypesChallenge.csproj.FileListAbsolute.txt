@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/bin/Debug/netcoreapp2.0/DatatypesChallenge.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/bin/Debug/netcoreapp2.0/DatatypesChallenge.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/bin/Debug/netcoreapp2.0/DatatypesChallenge.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/bin/Debug/netcoreapp2.0/DatatypesChallenge.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/bin/Debug/netcoreapp2.0/DatatypesChallenge.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/obj/Debug/netcoreapp2.0/DatatypesChallenge.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/obj/Debug/netcoreapp2.0/DatatypesChallenge.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/obj/Debug/netcoreapp2.0/DatatypesChallenge.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/obj/Debug/netcoreapp2.0/DatatypesChallenge.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/obj/Debug/netcoreapp2.0/DatatypesChallenge.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/DatatypesChallenge/DatatypesChallenge/obj/Debug/netcoreapp2.0/DatatypesChallenge.pdb
