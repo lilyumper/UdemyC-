@@ -7,11 +7,32 @@ namespace HelloWorld
         static void Main(string[] args)
         {
 
-            int num1 = 13;
-            int num2 = 14;
-            int sum = num1 + num2;
-            Console.WriteLine("The sum of " + num1 + " and " + num2 + " is" + sum);
+
+            // implicit Conversion
+            int num = 1234578;
+            long bignum = num;
+
+            double myDobule = 13.37;
+            float myFloat = 13.37F;
+
+            double myNewDouble = myFloat;
+            int myInt;
+
+            //explicit conversion
+            // cast double to int;
+
+            myInt = (int)myDobule;
+
+            // typeConversion
+            string myString = myDobule.ToString(); // "13.37"
+            string NewString = myFloat.ToString();
+            bool sunisShining = false;
+            string myBoolString = sunisShining.ToString();
+            Console.WriteLine(myBoolString);
             Console.Read();
+
+            //
+
 
         }
     }
