@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/bin/Debug/netcoreapp2.0/UserInput.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/bin/Debug/netcoreapp2.0/UserInput.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/bin/Debug/netcoreapp2.0/UserInput.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/bin/Debug/netcoreapp2.0/UserInput.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/bin/Debug/netcoreapp2.0/UserInput.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/obj/Debug/netcoreapp2.0/UserInput.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/obj/Debug/netcoreapp2.0/UserInput.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/obj/Debug/netcoreapp2.0/UserInput.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/obj/Debug/netcoreapp2.0/UserInput.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/obj/Debug/netcoreapp2.0/UserInput.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreMethods/MoreMethods/obj/Debug/netcoreapp2.0/UserInput.pdb
