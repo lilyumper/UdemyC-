@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A8C1C216-146A-4367-A431-39D1BF801371}|Default">
+  <MonoDevelop.Ide.ItemProperties.TryCatch PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TryCatch/Program.cs">
+    <Files>
+      <File FileName="TryCatch/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

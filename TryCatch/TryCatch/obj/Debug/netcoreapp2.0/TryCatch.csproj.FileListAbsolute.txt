@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/bin/Debug/netcoreapp2.0/TryCatch.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/bin/Debug/netcoreapp2.0/TryCatch.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/bin/Debug/netcoreapp2.0/TryCatch.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/bin/Debug/netcoreapp2.0/TryCatch.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/bin/Debug/netcoreapp2.0/TryCatch.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/obj/Debug/netcoreapp2.0/TryCatch.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/obj/Debug/netcoreapp2.0/TryCatch.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/obj/Debug/netcoreapp2.0/TryCatch.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/obj/Debug/netcoreapp2.0/TryCatch.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/obj/Debug/netcoreapp2.0/TryCatch.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/TryCatch/TryCatch/obj/Debug/netcoreapp2.0/TryCatch.pdb
