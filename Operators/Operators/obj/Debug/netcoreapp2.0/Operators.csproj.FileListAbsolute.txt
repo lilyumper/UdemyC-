@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/bin/Debug/netcoreapp2.0/Operators.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Operators/Operators/obj/Debug/netcoreapp2.0/Operators.pdb
