@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/bin/Debug/netcoreapp2.0/LogicConditions.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/bin/Debug/netcoreapp2.0/LogicConditions.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/bin/Debug/netcoreapp2.0/LogicConditions.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/bin/Debug/netcoreapp2.0/LogicConditions.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/bin/Debug/netcoreapp2.0/LogicConditions.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/obj/Debug/netcoreapp2.0/LogicConditions.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/obj/Debug/netcoreapp2.0/LogicConditions.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/obj/Debug/netcoreapp2.0/LogicConditions.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/obj/Debug/netcoreapp2.0/LogicConditions.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/obj/Debug/netcoreapp2.0/LogicConditions.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LogicConditions/LogicConditions/obj/Debug/netcoreapp2.0/LogicConditions.pdb
