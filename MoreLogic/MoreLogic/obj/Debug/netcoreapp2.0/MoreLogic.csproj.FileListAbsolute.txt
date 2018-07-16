@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/bin/Debug/netcoreapp2.0/MoreLogic.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/bin/Debug/netcoreapp2.0/MoreLogic.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/bin/Debug/netcoreapp2.0/MoreLogic.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/bin/Debug/netcoreapp2.0/MoreLogic.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/bin/Debug/netcoreapp2.0/MoreLogic.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/obj/Debug/netcoreapp2.0/MoreLogic.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/obj/Debug/netcoreapp2.0/MoreLogic.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/obj/Debug/netcoreapp2.0/MoreLogic.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/obj/Debug/netcoreapp2.0/MoreLogic.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/obj/Debug/netcoreapp2.0/MoreLogic.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/MoreLogic/MoreLogic/obj/Debug/netcoreapp2.0/MoreLogic.pdb
