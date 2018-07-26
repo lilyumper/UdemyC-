@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/bin/Debug/netcoreapp2.1/NestedIf.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/bin/Debug/netcoreapp2.1/NestedIf.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/bin/Debug/netcoreapp2.1/NestedIf.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/bin/Debug/netcoreapp2.1/NestedIf.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/bin/Debug/netcoreapp2.1/NestedIf.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/obj/Debug/netcoreapp2.1/NestedIf.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/obj/Debug/netcoreapp2.1/NestedIf.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/obj/Debug/netcoreapp2.1/NestedIf.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/obj/Debug/netcoreapp2.1/NestedIf.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/obj/Debug/netcoreapp2.1/NestedIf.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/NestedIf/NestedIf/obj/Debug/netcoreapp2.1/NestedIf.pdb
