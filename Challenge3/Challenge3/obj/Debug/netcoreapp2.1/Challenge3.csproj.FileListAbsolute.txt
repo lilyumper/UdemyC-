@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/bin/Debug/netcoreapp2.1/Challenge3.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/bin/Debug/netcoreapp2.1/Challenge3.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/bin/Debug/netcoreapp2.1/Challenge3.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/bin/Debug/netcoreapp2.1/Challenge3.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/bin/Debug/netcoreapp2.1/Challenge3.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/obj/Debug/netcoreapp2.1/Challenge3.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/obj/Debug/netcoreapp2.1/Challenge3.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/obj/Debug/netcoreapp2.1/Challenge3.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/obj/Debug/netcoreapp2.1/Challenge3.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/obj/Debug/netcoreapp2.1/Challenge3.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Challenge3/Challenge3/obj/Debug/netcoreapp2.1/Challenge3.pdb
