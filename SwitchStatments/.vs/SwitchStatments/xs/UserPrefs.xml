@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{088340D2-C2E5-4757-8049-FAB6CCC96EC4}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SwitchStatments/Program.cs">
     <Files>
-      <File FileName="SwitchStatments/Program.cs" Line="1" Column="1" />
+      <File FileName="SwitchStatments/Program.cs" Line="52" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.SwitchStatments PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SwitchStatments PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{FA999223-6330-4DF1-ADFA-7C4468EDCE41}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MoreLogic/Program.cs">
     <Files>
-      <File FileName="MoreLogic/Program.cs" Line="1" Column="1" />
+      <File FileName="MoreLogic/Program.cs" Line="19" Column="95" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MoreLogic PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MoreLogic PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
