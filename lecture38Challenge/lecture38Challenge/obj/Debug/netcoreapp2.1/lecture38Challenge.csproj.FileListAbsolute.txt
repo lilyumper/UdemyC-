@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/bin/Debug/netcoreapp2.1/lecture38Challenge.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/bin/Debug/netcoreapp2.1/lecture38Challenge.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/bin/Debug/netcoreapp2.1/lecture38Challenge.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/bin/Debug/netcoreapp2.1/lecture38Challenge.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/bin/Debug/netcoreapp2.1/lecture38Challenge.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/obj/Debug/netcoreapp2.1/lecture38Challenge.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/obj/Debug/netcoreapp2.1/lecture38Challenge.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/obj/Debug/netcoreapp2.1/lecture38Challenge.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/obj/Debug/netcoreapp2.1/lecture38Challenge.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/obj/Debug/netcoreapp2.1/lecture38Challenge.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/lecture38Challenge/lecture38Challenge/obj/Debug/netcoreapp2.1/lecture38Challenge.pdb
