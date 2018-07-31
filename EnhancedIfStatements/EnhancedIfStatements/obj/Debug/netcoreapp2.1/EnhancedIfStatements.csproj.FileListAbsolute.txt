@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/bin/Debug/netcoreapp2.1/EnhancedIfStatements.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/bin/Debug/netcoreapp2.1/EnhancedIfStatements.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/bin/Debug/netcoreapp2.1/EnhancedIfStatements.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/bin/Debug/netcoreapp2.1/EnhancedIfStatements.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/bin/Debug/netcoreapp2.1/EnhancedIfStatements.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/obj/Debug/netcoreapp2.1/EnhancedIfStatements.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/obj/Debug/netcoreapp2.1/EnhancedIfStatements.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/obj/Debug/netcoreapp2.1/EnhancedIfStatements.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/obj/Debug/netcoreapp2.1/EnhancedIfStatements.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/obj/Debug/netcoreapp2.1/EnhancedIfStatements.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/EnhancedIfStatements/EnhancedIfStatements/obj/Debug/netcoreapp2.1/EnhancedIfStatements.pdb

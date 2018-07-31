@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{2592308A-1C23-4D62-AC46-C5D7BD138445}|Default">
-  <MonoDevelop.Ide.ItemProperties.lecture38Challenge PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.lecture38Challenge PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="lecture38Challenge/Program.cs">
     <Files>
-      <File FileName="lecture38Challenge/Program.cs" Line="9" Column="30" />
+      <File FileName="lecture38Challenge/Program.cs" Line="14" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
