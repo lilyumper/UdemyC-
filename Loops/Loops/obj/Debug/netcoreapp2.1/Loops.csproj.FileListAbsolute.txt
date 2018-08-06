@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/bin/Debug/netcoreapp2.1/Loops.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/bin/Debug/netcoreapp2.1/Loops.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/bin/Debug/netcoreapp2.1/Loops.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/bin/Debug/netcoreapp2.1/Loops.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/bin/Debug/netcoreapp2.1/Loops.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/obj/Debug/netcoreapp2.1/Loops.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/obj/Debug/netcoreapp2.1/Loops.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/obj/Debug/netcoreapp2.1/Loops.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/obj/Debug/netcoreapp2.1/Loops.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/obj/Debug/netcoreapp2.1/Loops.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/Loops/Loops/obj/Debug/netcoreapp2.1/Loops.pdb
