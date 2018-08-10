@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp2.1/LoopChallenge.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp2.1/LoopChallenge.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp2.1/LoopChallenge.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp2.1/LoopChallenge.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/bin/Debug/netcoreapp2.1/LoopChallenge.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp2.1/LoopChallenge.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp2.1/LoopChallenge.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp2.1/LoopChallenge.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp2.1/LoopChallenge.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp2.1/LoopChallenge.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/LoopChallenge/LoopChallenge/obj/Debug/netcoreapp2.1/LoopChallenge.pdb

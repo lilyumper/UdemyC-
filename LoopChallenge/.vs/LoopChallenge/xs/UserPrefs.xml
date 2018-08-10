@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B6F9A5D8-336A-45B4-80AC-AEE0E4466257}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoopChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoopChallenge/Program.cs">
+    <Files>
+      <File FileName="LoopChallenge/Program.cs" Line="37" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
