@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/bin/Debug/netcoreapp2.1/BreakContinue.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/bin/Debug/netcoreapp2.1/BreakContinue.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/bin/Debug/netcoreapp2.1/BreakContinue.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/bin/Debug/netcoreapp2.1/BreakContinue.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/bin/Debug/netcoreapp2.1/BreakContinue.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/obj/Debug/netcoreapp2.1/BreakContinue.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/obj/Debug/netcoreapp2.1/BreakContinue.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/obj/Debug/netcoreapp2.1/BreakContinue.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/obj/Debug/netcoreapp2.1/BreakContinue.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/obj/Debug/netcoreapp2.1/BreakContinue.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/BreakContinue/BreakContinue/obj/Debug/netcoreapp2.1/BreakContinue.pdb
