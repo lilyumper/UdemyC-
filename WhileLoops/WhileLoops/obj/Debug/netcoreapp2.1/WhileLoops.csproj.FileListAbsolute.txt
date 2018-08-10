@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/bin/Debug/netcoreapp2.1/WhileLoops.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/bin/Debug/netcoreapp2.1/WhileLoops.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/bin/Debug/netcoreapp2.1/WhileLoops.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/bin/Debug/netcoreapp2.1/WhileLoops.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/bin/Debug/netcoreapp2.1/WhileLoops.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/obj/Debug/netcoreapp2.1/WhileLoops.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/obj/Debug/netcoreapp2.1/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/obj/Debug/netcoreapp2.1/WhileLoops.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/obj/Debug/netcoreapp2.1/WhileLoops.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/obj/Debug/netcoreapp2.1/WhileLoops.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/WhileLoops/WhileLoops/obj/Debug/netcoreapp2.1/WhileLoops.pdb
