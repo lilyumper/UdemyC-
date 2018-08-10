@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/obj/Debug/netcoreapp2.1/dowhileloops.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/obj/Debug/netcoreapp2.1/dowhileloops.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/obj/Debug/netcoreapp2.1/dowhileloops.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/obj/Debug/netcoreapp2.1/dowhileloops.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/bin/Debug/netcoreapp2.1/dowhileloops.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/bin/Debug/netcoreapp2.1/dowhileloops.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/bin/Debug/netcoreapp2.1/dowhileloops.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/bin/Debug/netcoreapp2.1/dowhileloops.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/bin/Debug/netcoreapp2.1/dowhileloops.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/obj/Debug/netcoreapp2.1/dowhileloops.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/dowhileloops/dowhileloops/obj/Debug/netcoreapp2.1/dowhileloops.pdb
