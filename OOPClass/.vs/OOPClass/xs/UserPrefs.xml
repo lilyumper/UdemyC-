@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8AB4FDF1-BE00-48A6-8F77-B1616F39FDCE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPClass/Human.cs">
+    <Files>
+      <File FileName="OOPClass/Program.cs" Line="9" Column="13" />
+      <File FileName="OOPClass/Human.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OOPClass PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

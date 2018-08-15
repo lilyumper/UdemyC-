@@ -1,0 +1,11 @@
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/obj/Debug/netcoreapp2.1/OOPClass.csprojResolveAssemblyReference.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/obj/Debug/netcoreapp2.1/OOPClass.csproj.CoreCompileInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/obj/Debug/netcoreapp2.1/OOPClass.AssemblyInfoInputs.cache
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/obj/Debug/netcoreapp2.1/OOPClass.AssemblyInfo.cs
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/bin/Debug/netcoreapp2.1/OOPClass.deps.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/bin/Debug/netcoreapp2.1/OOPClass.runtimeconfig.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/bin/Debug/netcoreapp2.1/OOPClass.runtimeconfig.dev.json
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/bin/Debug/netcoreapp2.1/OOPClass.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/bin/Debug/netcoreapp2.1/OOPClass.pdb
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/obj/Debug/netcoreapp2.1/OOPClass.dll
+/Users/tomgarcia/Desktop/Udemy/UdemyC#1/OOPClass/OOPClass/obj/Debug/netcoreapp2.1/OOPClass.pdb
