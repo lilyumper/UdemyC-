@@ -34,7 +34,7 @@ namespace LoopChallenge
                     }
                     continue;
                 }
-                count++;
+                count++; 
             }
             Console.Read();
         }

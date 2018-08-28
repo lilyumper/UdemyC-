@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{41EDE545-AD5A-4A44-B492-DD0549613A45}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="dowhileloops/Program.cs">
     <Files>
-      <File FileName="dowhileloops/Program.cs" Line="10" Column="13" />
+      <File FileName="dowhileloops/Program.cs" Line="22" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.dowhileloops PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.dowhileloops PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

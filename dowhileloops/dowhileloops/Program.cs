@@ -19,7 +19,7 @@ namespace dowhileloops
 
             }
             while (lengthOfText < 20);
-            Console.WriteLine("Thanks, that was enough " + "  "+ wholeText);
+            Console.WriteLine("Thanks, that was enough" + "  "+ wholeText);
 
             Console.Read();
         }
